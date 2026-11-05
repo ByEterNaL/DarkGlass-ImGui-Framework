@@ -1,0 +1,18 @@
+# Compiled Object & Binary Files
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+
+# ImGui Local State
+imgui.ini
+
+# IDE & OS
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
